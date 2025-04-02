@@ -1,1 +1,1 @@
-# modding-guides
+# Royals' Modding Guides Repo
