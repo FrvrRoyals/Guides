@@ -3,7 +3,7 @@
 ### This repository contains all of my mod guides I have written for various games over the years.
 
 > [!IMPORTANT]
-> You can find all of my guides [here](Guides/)
+> Having trouble finding the guides? Click **[here!](Guides/)**
 
 My modpacks are also all available in the repo below
 
