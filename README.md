@@ -5,6 +5,6 @@
 > [!TIP]
 > Having trouble finding the guides? Click **[here!](Guides/)**
 
-My modpacks are also all available in the repo below
+My modpacks are also all available in the repo below.
 
-**[Royals' Modpack Repository](https://github.com/FrvrRoyals/Modding-Guides)**
+**[Royals' Modpack Repository](https://github.com/FrvrRoyals/Modpacks)**
