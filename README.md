@@ -8,3 +8,5 @@
 My modpacks are also all available in the repo below.
 
 **[Royals' Modpack Repository](https://github.com/FrvrRoyals/Modpacks)**
+
+[Donate & support this project](https://buymeacoffee.com/frvrroyals)
