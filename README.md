@@ -5,7 +5,7 @@
 > [!TIP]
 > Having trouble finding the guides? You can them **[here!](Guides/)**
 
-My modpacks are also all available in the repo below.
+I also create my own modpacks, check them all out in the repo below.
 
 **[Royals' Modpack Repository](https://github.com/FrvrRoyals/Modpacks)**
 
