@@ -1,12 +1,11 @@
-# Royals' Modding Guides Repo :hammer_and_wrench:
+# Royals' Guides & Tutorials Repo :hammer_and_wrench:
 
-### This repository contains all of my mod guides I have written for various games over the years.
+### This repository contains all of my guides I have written/created for programs/tools, mods, and all sorts of other interesting stuff over the years that I thought would be useful to share to the community.
 
-> [!TIP]
-> Having trouble finding the guides? You can them **[here!](Guides/)**
+All guides & tutorials are hosted at my website below.
 
-I also create my own modpacks, check them all out in the repo below.
+**[Royals' Development Website - Guides](https://frvrroyals.github.io/guides.html)**
 
-**[Royals' Modpack Repository](https://github.com/FrvrRoyals/Modpacks)**
+© Royals’ Development 2025
 
-[Buy Me a Coffee](https://buymeacoffee.com/frvrroyals)
+
