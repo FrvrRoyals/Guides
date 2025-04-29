@@ -1,4 +1,4 @@
-# Royals' Guides & Tutorials Repo :hammer_and_wrench:
+# Royals' Guides & Tutorials Repo :books:
 
 ### This repository is a container for all of my guides, tutorials & their respective metadata.
 
